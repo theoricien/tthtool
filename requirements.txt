@@ -10,7 +10,7 @@ future==0.18.2
 idna==2.8
 kiwisolver==1.1.0
 matplotlib==3.2.1
-numpy==1.18.2
+numpy==1.22.0
 pycparser==2.19
 PyJWT==0.4.3
 pyparsing==2.4.6
