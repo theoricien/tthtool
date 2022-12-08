@@ -1,6 +1,6 @@
 archinfo==8.20.1.7
 bitstring==3.1.6
-certifi==2019.6.16
+certifi==2022.12.7
 cffi==1.13.2
 chardet==3.0.4
 colorama==0.4.1
